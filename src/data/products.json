@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 24.99,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Stylish UV protection sunglasses perfect for summer outings. Features polarized lenses and UV400 protection to shield your eyes from harmful sun rays.",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "Summer Beach Dress",
+    "brand": "SunStyle",
+    "price": 45.99,
+    "rating": 4.5,
+    "stock": 15,
+    "description": "Lightweight and breathable summer beach dress. Perfect for casual beach trips and hot weather outings with comfortable fit.",
+    "image": "https://images.unsplash.com/photo-1596869572580-86c6a0a3c0f0?w=500",
+    "category": "Clothing"
+  },
+  {
+    "id": 3,
+    "name": "Waterproof Sunscreen SPF 50",
+    "brand": "SkinGuard",
+    "price": 18.99,
+    "rating": 4.8,
+    "stock": 25,
+    "description": "Professional-grade waterproof sunscreen with SPF 50 protection. Water-resistant for up to 80 minutes and dermatologist-tested.",
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=500",
+    "category": "Skincare"
+  },
+  {
+    "id": 4,
+    "name": "Beach Hat Wide Brim",
+    "brand": "SunBrace",
+    "price": 32.99,
+    "rating": 4.6,
+    "stock": 20,
+    "description": "Wide-brimmed beach hat for maximum sun protection. Made with breathable material and includes UV-blocking technology.",
+    "image": "https://images.unsplash.com/photo-1571513451463-6d4db9b3c02b?w=500",
+    "category": "Accessories"
+  },
+  {
+    "id": 5,
+    "name": "Hydrating Body Lotion",
+    "brand": "SkinCool",
+    "price": 22.99,
+    "rating": 4.4,
+    "stock": 30,
+    "description": "Lightweight hydrating lotion perfect for post-beach skin care. Contains aloe vera and coconut extract for soothing relief.",
+    "image": "https://images.unsplash.com/photo-1556228104-c4bf4c6aaad8?w=500",
+    "category": "Skincare"
+  },
+  {
+    "id": 6,
+    "name": "Swim Shorts Collection",
+    "brand": "AquaStyle",
+    "price": 38.99,
+    "rating": 4.7,
+    "stock": 18,
+    "description": "Comfortable and stylish swim shorts with quick-dry technology. Features multiple color options and secure pockets.",
+    "image": "https://images.unsplash.com/photo-1584445600885-32046b1229cc?w=500",
+    "category": "Clothing"
+  },
+  {
+    "id": 7,
+    "name": "Hydration Water Bottle",
+    "brand": "CoolThirst",
+    "price": 28.99,
+    "rating": 4.6,
+    "stock": 22,
+    "description": "Insulated water bottle that keeps drinks cold for up to 24 hours. Made with eco-friendly materials and perfect for summer activities.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e9?w=500",
+    "category": "Accessories"
+  },
+  {
+    "id": 8,
+    "name": "Portable Beach Towel",
+    "brand": "ComfortZone",
+    "price": 19.99,
+    "rating": 4.5,
+    "stock": 35,
+    "description": "Quick-dry microfiber beach towel that's lightweight and compact. Perfect for travel and takes up minimal space.",
+    "image": "https://images.unsplash.com/photo-1585398161670-a60f8e1da8b9?w=500",
+    "category": "Accessories"
+  }
+]
